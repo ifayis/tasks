@@ -5,3 +5,22 @@
   text-align: center;
 }
 
+.container{
+  font-size: 50px;
+}
+
+.form-control{
+  height: 50px;
+  width: 300px;
+  background-color: black;
+  color: azure;
+  font-size: 25px;
+}
+
+.btn{
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
