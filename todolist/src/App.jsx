@@ -5,7 +5,6 @@ import './App.css'
 import List from'./list.jsx'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
